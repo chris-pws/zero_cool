@@ -528,7 +528,7 @@ F 3 "" H 2525 1215 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 3270 1365 2    60   ~ 0
-OP2_+
+SIG+
 $Comp
 L GND #PWR4
 U 1 1 5A31D9E1
@@ -552,7 +552,7 @@ F 3 "" H 2885 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 1685 1265 0    60   ~ 0
-OP1_+
+SIG-
 Text Label 3270 1265 2    60   ~ 0
 OP2_-
 Text Label 3270 1165 2    60   ~ 0
