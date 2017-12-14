@@ -1,4 +1,4 @@
-update=Wed 13 Dec 2017 02:05:07 PM EST
+update=Thu 14 Dec 2017 02:25:38 PM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -71,7 +71,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=/home/cms/KiCad/sbc fan controller/
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
