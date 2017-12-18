@@ -1,0 +1,22 @@
+
+*.kicad_mod
+
+_autosave-sbc fan controller\.kicad_pcb
+
+*.bak
+
+isp-6\.bck
+
+_saved_sbc fan controller\.sch
+
+sbc fan controller\.sch\.svg
+
+sbc fan controller\.kicad_pcb-bak
+
+sbc fan controller-F\.SilkS\.pdf
+
+sbc fan controller-Edge\.Cuts\.pdf
+
+sbc fan controller\.net
+
+_autosave-sbc fan controller\.pro
