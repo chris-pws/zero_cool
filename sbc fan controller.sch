@@ -41,12 +41,12 @@ EELAYER END
 $Descr User 7874 5906
 encoding utf-8
 Sheet 1 1
-Title "Orange Pi Zero fan controller"
+Title "ZeroCool"
 Date "2017-12-14"
 Rev "A"
 Comp "https://github.com/cms-/opi_zero_fan_controller"
 Comment1 "Released under MIT License"
-Comment2 ""
+Comment2 "Orange Pi Zero fan controller"
 Comment3 ""
 Comment4 ""
 $EndDescr
